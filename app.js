@@ -1,9 +1,9 @@
 
     //Camera Authentication
-    var ip_address = "192.168.1.111" //ip adress of the camera
+    var ip_address = "192.168.1.121" //ip adress of the camera
     //camera username and password
     var username = "admin";
-    var password = "admin";
+    var password = "ulkemhdr1234";
 
     //A channel of camera stream
     Stream = require('node-rtsp-stream');
